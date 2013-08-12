@@ -20,3 +20,5 @@ Finally, after a conversion of the ADC result to ASCII character, the temperatur
 
 <li>The Temperature Sensor used is LM35DZ (datasheet link: http://www.ti.com/lit/ds/symlink/lm35.pdf)</li></ul></p>
 
+<p>Demonstration video available at: http://youtu.be/ZGVRYA4FSx4</p>
+
